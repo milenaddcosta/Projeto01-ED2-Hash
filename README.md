@@ -1,5 +1,5 @@
-README.txt
 Projeto: Tabelas Hash em Textos Reais
+
 Disciplina: Estruturas de Dados II
 
 Descrição:
